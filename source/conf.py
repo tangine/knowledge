@@ -6,7 +6,7 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'fulgens'
+project = '我的知识库'
 copyright = '2025, wangcx'
 author = 'wangcx'
 release = 'v1.0'
