@@ -27,3 +27,11 @@ language = 'zh_CN'
 # html_theme = 'alabaster'
 html_theme = 'sphinx_rtd_theme'
 html_static_path = ['_static']
+
+source_suffix = {
+    '.rst': 'restructuredtext',
+    '.txt': 'restructuredtext',
+    '.md': 'markdown',
+}
+
+source_parsers = {'.md': 'recommonmark.parser.CommonMarkParser'}

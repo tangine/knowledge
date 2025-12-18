@@ -13,6 +13,10 @@
 
 .. toctree::
    :maxdepth: 3
-   :caption: 目录:
+   :glob:
+   :caption: 我的知识库
+   :numbered:
    
    web/index
+   servant/index
+   other/index
