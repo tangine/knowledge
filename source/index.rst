@@ -11,6 +11,9 @@
 .. documentation for details.
 
 
+.. image:: image.png
+   :width: 100%
+
 .. toctree::
    :maxdepth: 3
    :glob:
